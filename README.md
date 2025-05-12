@@ -16,3 +16,6 @@ This repository contains the following key files:
 - **`constructor_function_prop.py`**: Implements the proposed complete model, relying on functions from `functions.py` and `arm.py`.
 - **`constructor_function_ref.py`**: Implements the reference complete model, also dependent on `functions.py` and `arm.py`.
 - **`application.py`**: Demonstrates how to use `constructor_function_prop.py` and `constructor_function_ref.py` to display results
+
+## Usage
+This project is useful for researchers and engineers working with cognitive radio networks and machine learning-based spectrum sensing models.
